@@ -4,7 +4,15 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 
 # Files
+```mermaid
+	graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
 
+```
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -142,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNTc4NzYzMjgyXX0=
 -->
